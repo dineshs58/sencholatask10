@@ -1,0 +1,23 @@
+.card
+{
+    height:470px !important;
+}
+.header
+{
+    margin-top: 70px;
+}
+.title
+{
+    text-transform: capitalize;
+    color:red;
+}
+.footer
+{
+    color:white;
+    padding: 10px;
+    font-size: 1.5vw;
+}
+.geek
+{
+    color:rgb(8, 250, 8);
+}

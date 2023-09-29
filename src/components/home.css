@@ -1,0 +1,31 @@
+.logo
+{
+    color:rgb(122, 243, 122) !important;
+    font-size: 2vw;
+}
+.nav-link
+{
+    color:aliceblue !important;
+    font-size: 20px !important;
+}
+.nav-link:hover
+{
+    color:rgb(53, 241, 63) !important;
+    
+}
+.navbar-toggler
+{
+    background-color: rgb(177, 109, 20);
+}
+.navbar-toggler-icon
+{
+    color:aliceblue !important;
+    background-color: antiquewhite !important;
+    border-radius: 5px;
+}
+#fix
+{
+    position: fixed;
+    z-index: 1;
+    
+}
